@@ -1,6 +1,9 @@
 # 0_inicis
 Crea un repositori
 
+## Activitats
+* [3_BROOM] (https://aitoresteve.github.io/3_BROOM/)
+
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
 * [Llenguatge d'etiquetes github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
