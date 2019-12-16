@@ -3,6 +3,7 @@ Crea un repositori
 
 ## Activitats
 * [3_BROOM] (https://aitoresteve.github.io/3_BROOM/)
+* [EXAMEN] (https://aitoresteve.github.io/11_Examen/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
