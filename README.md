@@ -12,7 +12,7 @@ Crea un repositori
 * [9_Transform](https://aitoresteve.github.io/9_Transform/)
 * [EXAMEN](https://aitoresteve.github.io/11_Examen/)
 * [13_javascript](https://aitoresteve.github.io/13_javascript/)
-* []()
+* [13_javascript02](https://aitoresteve.github.io/13_javascript02/)
 * [16_menú](https://aitoresteve.github.io/16_men-/)
 
 ## Pàgines classe
