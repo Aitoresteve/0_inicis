@@ -14,7 +14,8 @@ Crea un repositori
 * [13_javascript](https://aitoresteve.github.io/13_javascript/)
 * [13_javascript02](https://aitoresteve.github.io/13_javascript02/)
 * [13_javascript03](https://aitoresteve.github.io/13_javascript03/)
-* [16_menú](https://aitoresteve.github.io/16_men-/)
+* [14_menú](https://aitoresteve.github.io/16_men-/)
+* [15_svg](https://aitoresteve.github.io/15_svg/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
