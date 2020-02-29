@@ -3,6 +3,7 @@ Crea un repositori
 
 ## Activitats
 * [3_BROOM](https://aitoresteve.github.io/3_BROOM/)
+* [4_Maquetació](https://aitoresteve.github.io/4_maquetaci-/)
 * [EXAMEN](https://aitoresteve.github.io/11_Examen/)
 * [14_document_js](https://aitoresteve.github.io/14_document_js/)
 * [16_menú](https://aitoresteve.github.io/16_men-/)
