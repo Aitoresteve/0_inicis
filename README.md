@@ -6,6 +6,7 @@ Crea un repositori
 * [3_BROOM](https://aitoresteve.github.io/3_BROOM/)
 * [4_Maquetació](https://aitoresteve.github.io/4_maquetaci-/)
 * [5_Tarjetes](https://aitoresteve.github.io/5_Tarjetes/)
+* [6_Landingpage](https://aitoresteve.github.io/6_landingpagee/)
 * [EXAMEN](https://aitoresteve.github.io/11_Examen/)
 * [14_document_js](https://aitoresteve.github.io/14_document_js/)
 * [16_menú](https://aitoresteve.github.io/16_men-/)
