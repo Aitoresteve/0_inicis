@@ -13,6 +13,7 @@ Crea un repositori
 * [EXAMEN](https://aitoresteve.github.io/11_Examen/)
 * [13_javascript](https://aitoresteve.github.io/13_javascript/)
 * [13_javascript02](https://aitoresteve.github.io/13_javascript02/)
+* [13_javascript03](https://aitoresteve.github.io/13_javascript03/)
 * [16_menú](https://aitoresteve.github.io/16_men-/)
 
 ## Pàgines classe
