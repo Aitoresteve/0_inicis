@@ -2,6 +2,7 @@
 Crea un repositori
 
 ## Activitats
+* [1_llocweb](https://aitoresteve.github.io/1llocweb/)
 * [3_BROOM](https://aitoresteve.github.io/3_BROOM/)
 * [4_Maquetació](https://aitoresteve.github.io/4_maquetaci-/)
 * [EXAMEN](https://aitoresteve.github.io/11_Examen/)
