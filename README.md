@@ -12,8 +12,8 @@ Crea un repositori
 * [9_Transform](https://aitoresteve.github.io/9_Transform/)
 * [EXAMEN](https://aitoresteve.github.io/11_Examen/)
 * [13_javascript](https://aitoresteve.github.io/13_javascript/)
-* [13_javascript02](https://aitoresteve.github.io/13_javascript02/)
-* [13_javascript03](https://aitoresteve.github.io/13_javascript03/)
+* [13_javascript_02](https://aitoresteve.github.io/13_javascript02/)
+* [13_javascript_03](https://aitoresteve.github.io/13_javascript03/)
 * [14_menú](https://aitoresteve.github.io/16_men-/)
 * [15_svg](https://aitoresteve.github.io/15_svg/)
 
