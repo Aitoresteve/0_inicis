@@ -20,6 +20,7 @@ Crea un repositori
 * [13_javascript_03](https://aitoresteve.github.io/13_javascript03/)
 * [14_menú](https://aitoresteve.github.io/16_men-/)
 * [15_svg](https://aitoresteve.github.io/15_svg/)
+* [16_Portfoli](https://aitoresteve.github.io/16_Portfoli/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
