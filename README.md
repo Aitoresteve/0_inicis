@@ -3,6 +3,7 @@ Crea un repositori
 
 ## Activitats
 * [1_lloc_web](https://aitoresteve.github.io/1llocweb/)
+* [2_cmyk](https://aitoresteve.github.io/2_cmyk/)
 * [3_BROOM](https://aitoresteve.github.io/3_BROOM/)
 * [4_Maquetació](https://aitoresteve.github.io/4_maquetaci-/)
 * [5_Tarjetes](https://aitoresteve.github.io/5_Tarjetes/)
