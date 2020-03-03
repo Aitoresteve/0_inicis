@@ -21,6 +21,7 @@ Crea un repositori
 * [14_menú](https://aitoresteve.github.io/16_men-/)
 * [15_svg](https://aitoresteve.github.io/15_svg/)
 * [16_Portfoli](https://aitoresteve.github.io/16_Portfoli/)
+* [Examen_2](https://aitoresteve.github.io/Examen02/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
